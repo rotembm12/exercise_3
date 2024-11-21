@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+} 
+
+.box{
+    color: white;
+    padding: 10px;
+    border: 1px solid black;
+    background-color: blue;
+}
